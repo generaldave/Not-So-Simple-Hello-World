@@ -16,4 +16,4 @@ This app:
 1. Takes some input text. 
 2. Creates a black and white bitmap out of the text.
 3. Stores the pixel locations of the image, not background.
-4. Draws random pixels on the screen or random colours for the background and a specified colour for the text, based on the stored pixel locations.
+4. Draws random pixels on the screen of random colours for the background and a specified colour for the text, based on the stored pixel locations.
