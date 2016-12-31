@@ -1,7 +1,7 @@
 Not So Simple Hello World
 
--Written in Python 2.7.9
--using pygame 1.9.2b1
+    Written in Python 2.7.9
+    using pygame 1.9.2b1
 
 To install pygame: from the command prompt or Terminal, run the following:
 
