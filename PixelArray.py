@@ -37,7 +37,6 @@ class PixelArray:
     # Method sets up pixel array
     def setupPixelArray(self):
         for rownum in range(self.pixelizer.getSize(ONE)): 
-            line = []
             for colnum in range(self.pixelizer.getSize(ZERO)):
                 if not self.pixelizer.image.getpixel((colnum, rownum)):
                     self.pixels.append((colnum, rownum))
